@@ -52,8 +52,8 @@ print(n)
 #11
 o = [x for x in a if x % 2 == 0]
 p = [x for x in a if x % 2 != 0]
-print("Чётные:", o)
-print("Нечётные:", p)
+print(o)
+print(p)
 
 #12
 q = []
